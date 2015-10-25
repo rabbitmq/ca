@@ -10,6 +10,9 @@ This would make it much easier
 (in some cases, possible) for the RabbitMQ team at Pivotal to accept your
 contribution.
 
+Submitting a pull request before a signed CA is perfectly possible
+and encouraged.
+
 Thank you for going through this pain.
 
 
