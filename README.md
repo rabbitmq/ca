@@ -18,4 +18,4 @@ Thank you for going through this pain.
 
 ## Copyright
 
-(c) Pivotal Software, Inc., 2007-2015.
+(c) Pivotal Software, Inc., 2007-2016.
